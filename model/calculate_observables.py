@@ -4,6 +4,8 @@
 """
 Functions to calculate integrated and pt-differential observables:
 - pt-integrated observables:
+  - Symmetric cumulant SC(m, n): unfinished! 
+  - Relative mean pT fluctuation: unfinished! 
   - Mean pT
   - Global radial flow v_0 = sigma_[pT] / <[pT]>
   - dN/dy for identified particles
@@ -13,6 +15,18 @@ Functions to calculate integrated and pt-differential observables:
 """
 import numpy as np
 
+### Unfinished! 
+def compute_mean_pT_fluct_lowlevel(arg):
+    """Compute relative mean pT fluctuation \sqrt{C_m}/M(p_T)_m as defined in 
+    Eqs. (2-3) of the ALICE paper https://inspirehep.net/record/1307102.
+    """
+    return mean_pt_fluct
+
+### Unfinished! 
+def compute_symmetric_cumulant_lowlevel(arg):
+    """Compute symmetric cumulant SC(m,n)."""
+    return sc 
+    
 def compute_mean_pt_lowlevel(arg):
     """Compute mean pT."""
     Q0_diff = arg[:, :Npt].astype(float)  # [events, pT]
@@ -78,6 +92,16 @@ def compute_v0_lowlevel(arg):
     v0 = sigma_mean_pt / mean_of_mean_pt
     
     return v0
+
+### Unfinished!
+def compute_mean_pT_fluct():
+    """Compute relative mean pT fluctuation with jackknife errors."""
+    return jackknifeerror(compute_, arg)
+
+### Unfinished!
+def compute_symmetric_cumulant():
+    """Compute symmetric cumulant with jackknife errors."""
+    return jackknifeerror(compute_,arg)
 
 def compute_mean_pt(Qn_normalized, etarange, ptrange, weights, pid=None):
     """Compute mean pT with jackknife errors."""
