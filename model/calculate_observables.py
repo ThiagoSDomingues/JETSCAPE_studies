@@ -24,11 +24,30 @@ def corr2(Qn, N):
     """Compute the two-particle correlation <v_n^2>."""
     return (csq(Qn) - N).sum() / (N* (N - 1)).sum()
 
-### Unfinished! 
 def compute_mean_pT_fluct_lowlevel(arg):
     """Compute relative mean pT fluctuation \sqrt{C_m}/M(p_T)_m as defined in 
     Eqs. (2-3) of the ALICE paper https://inspirehep.net/record/1307102.
     """
+    N = arg[:, 0].astype(float) # We must extract it from Qn vectors?
+    sum_pT = arg[:, 1].astype(float)
+    sum_pTsq = arg[:, 2].astype(float)
+    weights = arg[:, 3].astype(float)
+
+    # Number of pairs: N(N-1)/2
+    Npairs = 0.5 * N * (N - 1)
+
+    # Mean pT across all events
+    M = np.sum(sum_pT * weights) / np.sum(N * weights)
+
+    # Cumulant C_m using the pair sum formula:
+    # sum_{i, j>i} a_i*a_j = 0.5*[(sum a_i)^2 - sum(a_i^2)]
+    C_per_event = (
+        0.5 * (sum_pT**2 - sum_pTsq) - M * (N - 1) * sum_pT + M**2 * Npairs    
+    )
+
+    C = np.sum(C_per_event * weights) / np.sum(Npairs * weights)
+
+    mean_pt_fluct = np.sqrt(C) / M
     return mean_pt_fluct
 
 ### Unfinished! 
@@ -103,9 +122,11 @@ def compute_v0_lowlevel(arg):
     return v0
 
 ### Unfinished!
-def compute_mean_pT_fluct():
+def compute_mean_pT_fluct(Qn_normalized, etarange, weights):
     """Compute relative mean pT fluctuation with jackknife errors."""
-    return jackknifeerror(compute_, arg)
+    
+    arg = np.c_[N, sum_pT, sum_pTsq, weights]
+    return jackknifeerror(compute_mean_pT_fluct_low_level, arg)
 
 ### Unfinished!
 def compute_symmetric_cumulant():
