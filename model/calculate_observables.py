@@ -15,6 +15,15 @@ Functions to calculate integrated and pt-differential observables:
 """
 import numpy as np
 
+# Helper functions from J.Bernhard hic-param-est/src/model.py
+def csq(x):
+    """Return the absolute square |x|^2 of a complex array."""
+    return (x * x.conj()).real
+
+def corr2(Qn, N):
+    """Compute the two-particle correlation <v_n^2>."""
+    return (csq(Qn) - N).sum() / (N* (N - 1)).sum()
+
 ### Unfinished! 
 def compute_mean_pT_fluct_lowlevel(arg):
     """Compute relative mean pT fluctuation \sqrt{C_m}/M(p_T)_m as defined in 
