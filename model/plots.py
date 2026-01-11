@@ -115,7 +115,75 @@ def plot_viscous_corrections_comparison(all_data, cent_idx, species_name):
     axes[1].set_ylim(-4, 15)
 
     plt.tight_layout()
-    return fig    
+    return fig
+
+# plot global v_0 against centrality
+def plot_v0_vs_centrality_panel(all_data, species_name):
+    """
+    Create a 2x2 panel figure showing v0 vs centrality for all viscous corrections.
+    Each panel shows all design points as faint lines and highlights one.
+    """
+    fig, axes = plt.subplots(2, 2, figsize=(14, 10), dpi=300)
+    axes = axes.flatten()
+    
+    # Map correction names to subplot positions
+    correction_order = ['Grad', 'CE', 'PTM', 'PTB']
+    
+    for idx, corr_key in enumerate(correction_order):
+        if corr_key not in all_data or all_data[corr_key] is None:
+            axes[idx].text(0.5, 0.5, f'No data for {corr_key}', 
+                          ha='center', va='center', transform=axes[idx].transAxes,
+                          fontsize=12, color='red')
+            continue
+        
+        corr_info = VISCOUS_CORRECTIONS[corr_key]
+        data = all_data[corr_key]
+        color = corr_info['color']
+        label = corr_info['label']
+        
+        cent_bins = data['centrality_bins']
+        v0_data_list = data['v0_data']
+        
+        ax = axes[idx]
+        
+        # Plot all design points as faint lines
+        for dp_data in v0_data_list:
+            ax.plot(cent_bins, dp_data['v0_global'], 
+                   color=color, alpha=0.2, linewidth=1)
+        
+        # Highlight selected design point with error bars
+        if DESIGN_POINT_INDEX is not None and DESIGN_POINT_INDEX < len(v0_data_list):
+            main_dp = v0_data_list[DESIGN_POINT_INDEX]
+            ax.errorbar(cent_bins, main_dp['v0_global'], 
+                       yerr=main_dp['v0_global_err'],
+                       fmt='o-', color=color, markersize=6, capsize=4,
+                       linewidth=2, alpha=0.9, 
+                       label=f'DP {DESIGN_POINT_INDEX}')
+        
+        # Add label for all design points
+        ax.plot([], [], color=color, alpha=0.2, linewidth=1,
+               label=f'All DPs (N={len(v0_data_list)})')
+        
+        # Axis settings
+        ax.set_xlabel('Centrality [%]', fontsize=12)
+        ax.set_ylabel(r'$v_0$ (global)', fontsize=12)
+        ax.set_title(label, fontsize=13, fontweight='bold')
+        ax.grid(True, alpha=0.3, linestyle='--')
+        ax.legend(fontsize=9, framealpha=0.9, loc='best')
+        ax.tick_params(labelsize=10)
+        
+        # Set x-axis limits (0-100% centrality)
+        ax.set_xlim(-5, 105)
+        
+        # Set consistent y-axis limits across all panels
+        ax.set_ylim(-0.02, 0.12)
+    
+    # Overall title
+    fig.suptitle(f'Global $v_0$ vs Centrality – {species_name} – Pb-Pb 2.76 TeV', 
+                 fontsize=15, fontweight='bold', y=0.995)
+    
+    plt.tight_layout(rect=[0, 0, 1, 0.99])
+    return fig
 
 # =============================================================================
 # MAIN EXECUTION
