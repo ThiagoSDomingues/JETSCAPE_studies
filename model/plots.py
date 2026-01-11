@@ -116,3 +116,32 @@ def plot_viscous_corrections_comparison(all_data, cent_idx, species_name):
 
     plt.tight_layout()
     return fig    
+
+# =============================================================================
+# MAIN EXECUTION
+# =============================================================================
+
+if __name__ == "__main__":
+
+    print(f"\nLoading viscous correction: {SELECTED_CORRECTION}")
+    print("-" * 80)
+
+    filepath = VISCOUS_CORRECTIONS[SELECTED_CORRECTION]
+    results = load_results(filepath)
+
+    if results is None:
+        raise RuntimeError("Failed to load selected viscous correction file.")
+
+    all_data = {SELECTED_CORRECTION: results}
+
+    print(f"✓ Loaded {len(results)} design points")
+
+    print("\nGenerating plot...")
+    fig = plot_viscous_corrections_comparison(
+        all_data,
+        CENTRALITY_INDEX,
+        SPECIES
+    )
+
+    plt.show()
+    print("\nDone!")
