@@ -1,3 +1,10 @@
+### Author: OptimusThi
+
+#!/usr/bin/env python3
+"""
+Script to plot observables
+"""
+
 import numpy as np
 import pickle
 import matplotlib.pyplot as plt
@@ -27,4 +34,18 @@ CENTRALITY_LABEL = '50-60%'
 
 # Species to plot
 SPECIES = 'charged'  # 'charged', 'pi', 'kaon', 'proton', 'Sigma', 'Xi'
+
+# =============================================================================
+# LOAD DATA: all data is stored as pickle files
+# =============================================================================
+
+def load_results(filename):
+    """Load pickle file with v0(pT) results"""
+    if not Path(filename).exists():
+        print(f"Warning: File '{filename}' not found!")
+        return None
+
+    with open(filename, 'rb') as f:
+        results = pickle.load(f)
+    return results
 
