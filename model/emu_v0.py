@@ -41,7 +41,7 @@ pr_predictions = np.array(pr_predictions) # shape (n_pr_samples, n_obs)
 print(pr_predictions.shape)
 
 # Reshape predictions into (n_pr_samples, n_cent_bins, n_pt_bins)
-pr_n_cent = 10 ### change it! 
-pr_n_pt = 29 ### change it!   
-pr_predictions_reshaped = pr_predictions.reshape(n_pr_samples, pr_n_cent, pr_n_pt)
+n_cent_bins = 10 ### change it! 
+n_pt_bins = 29 ### change it!   
+pr_predictions_reshaped = pr_predictions.reshape(n_pr_samples, n_cent_bins, n_pt_bins)
 pr_predictions_reshaped.shape
