@@ -27,3 +27,14 @@ def predict_observables(model_parameters, Emulators, inverse_tf_matrix, SS):
     inverse_transformed_variance = np.einsum('ik,kl,lj->ij', A.T, variance_matrix, A)
     return inverse_transformed_mean.flatten(), inverse_transformed_variance
 
+# Making prior predictions
+np.random.seed(1) # for reproducibility
+pr_predictions = []
+
+n_pr_samples = 2000
+
+# Looping over all prior samples: supposing a uniform prior
+for params in np.random.uniform(param_min, param_max, (n_pr_samples, n_params)):        
+    y_pred, cov_pred = predict_observables(params, emulators, inv_tf, scaler)
+    pr_predictions.append(y_pred.flatten())
+pr_predictions = np.array(pr_predictions) # shape (n_pr_samples, n_obs)
