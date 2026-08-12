@@ -1,0 +1,65 @@
+ratios: predictions for v_0(pt)/v_0 against experimental data
+
+Predictions vs experimental data for Grad model
+- Adding CMS experimental data
+
+
+================================================================================
+PLOTTING PREDICTIONS VS ATLAS DATA (LOAD-ONLY MODE)
+================================================================================
+
+Centrality: 60-70%
+
+Loading experimental data...
+  ✓ Loaded v0(pT): 29 points
+  ✓ Loaded global v0 for 60-70%: v0=0.01694
+
+Loading pre-saved predictions...
+  ✓ Loaded: predictions_vs_experimental/all_predictions_v0pt.pkl  keys=['Grad', 'CE', 'PTM', 'PTB']
+  ✓ Loaded: predictions_vs_experimental/all_predictions_v0.pkl  keys=['Grad', 'CE', 'PTM', 'PTB']
+  ✓ Loaded: predictions_vs_experimental/all_predictions_ratio.pkl  keys=['Grad', 'CE', 'PTM', 'PTB']
+
+================================================================================
+CREATING PLOTS...
+================================================================================
+
+--- Grad ---
+  Saved: predictions_vs_experimental/v0pt_vs_exp_Grad_6070%.pdf
+/tmp/ipykernel_6306/3935303548.py:336: UserWarning: First parameter to grid() is false, but line properties are supplied. The grid will be enabled.
+  ax.grid(False, alpha=0.3, axis='y')
+  Saved: predictions_vs_experimental/v0_global_vs_exp_Grad_6070%.pdf
+/tmp/ipykernel_6306/3935303548.py:431: UserWarning: First parameter to grid() is false, but line properties are supplied. The grid will be enabled.
+  ax_bot.grid(False, alpha=0.3, which='both')
+  Saved: predictions_vs_experimental/ratio_vs_exp_Grad_6070%.pdf
+
+--- CE ---
+  Saved: predictions_vs_experimental/v0pt_vs_exp_CE_6070%.pdf
+/tmp/ipykernel_6306/3935303548.py:336: UserWarning: First parameter to grid() is false, but line properties are supplied. The grid will be enabled.
+  ax.grid(False, alpha=0.3, axis='y')
+  Saved: predictions_vs_experimental/v0_global_vs_exp_CE_6070%.pdf
+/tmp/ipykernel_6306/3935303548.py:431: UserWarning: First parameter to grid() is false, but line properties are supplied. The grid will be enabled.
+  ax_bot.grid(False, alpha=0.3, which='both')
+  Saved: predictions_vs_experimental/ratio_vs_exp_CE_6070%.pdf
+
+--- PTM ---
+  Saved: predictions_vs_experimental/v0pt_vs_exp_PTM_6070%.pdf
+/tmp/ipykernel_6306/3935303548.py:336: UserWarning: First parameter to grid() is false, but line properties are supplied. The grid will be enabled.
+  ax.grid(False, alpha=0.3, axis='y')
+  Saved: predictions_vs_experimental/v0_global_vs_exp_PTM_6070%.pdf
+/tmp/ipykernel_6306/3935303548.py:431: UserWarning: First parameter to grid() is false, but line properties are supplied. The grid will be enabled.
+  ax_bot.grid(False, alpha=0.3, which='both')
+  Saved: predictions_vs_experimental/ratio_vs_exp_PTM_6070%.pdf
+
+--- PTB ---
+  Saved: predictions_vs_experimental/v0pt_vs_exp_PTB_6070%.pdf
+/tmp/ipykernel_6306/3935303548.py:336: UserWarning: First parameter to grid() is false, but line properties are supplied. The grid will be enabled.
+  ax.grid(False, alpha=0.3, axis='y')
+  Saved: predictions_vs_experimental/v0_global_vs_exp_PTB_6070%.pdf
+/tmp/ipykernel_6306/3935303548.py:431: UserWarning: First parameter to grid() is false, but line properties are supplied. The grid will be enabled.
+  ax_bot.grid(False, alpha=0.3, which='both')
+  Saved: predictions_vs_experimental/ratio_vs_exp_PTB_6070%.pdf
+
+================================================================================
+✓ PLOTTING COMPLETE
+Output folder: predictions_vs_experimental/
+================================================================================
