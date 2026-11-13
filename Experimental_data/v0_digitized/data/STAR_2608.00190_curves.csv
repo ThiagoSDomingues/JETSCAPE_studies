@@ -1,0 +1,377 @@
+figure,system,curve,kind,point_index,x,y
+fig1b,Au+Au,O+O 10-20% (central),line,0,0.224862,-0.0547022
+fig1b,Au+Au,O+O 10-20% (central),line,1,0.274672,-0.0499887
+fig1b,Au+Au,O+O 10-20% (central),line,2,0.324581,-0.0434467
+fig1b,Au+Au,O+O 10-20% (central),line,3,0.374528,-0.0364397
+fig1b,Au+Au,O+O 10-20% (central),line,4,0.424501,-0.0286848
+fig1b,Au+Au,O+O 10-20% (central),line,5,0.474492,-0.0210157
+fig1b,Au+Au,O+O 10-20% (central),line,6,0.524478,-0.0120425
+fig1b,Au+Au,O+O 10-20% (central),line,7,0.574482,-0.00326155
+fig1b,Au+Au,O+O 10-20% (central),line,8,0.62448,0.00563027
+fig1b,Au+Au,O+O 10-20% (central),line,9,0.674478,0.0148255
+fig1b,Au+Au,O+O 10-20% (central),line,10,0.724483,0.0240305
+fig1b,Au+Au,O+O 10-20% (central),line,11,0.7745,0.0333473
+fig1b,Au+Au,O+O 10-20% (central),line,12,0.824492,0.0438404
+fig1b,Au+Au,O+O 10-20% (central),line,13,0.874486,0.0531054
+fig1b,Au+Au,O+O 10-20% (central),line,14,0.924495,0.0629458
+fig1b,Au+Au,O+O 10-20% (central),line,15,0.974496,0.0736098
+fig1b,Au+Au,O+O 10-20% (central),line,16,1.0477,0.0877332
+fig1b,Au+Au,O+O 10-20% (central),line,17,1.14775,0.108162
+fig1b,Au+Au,O+O 10-20% (central),line,18,1.2478,0.127397
+fig1b,Au+Au,O+O 10-20% (central),line,19,1.34784,0.146799
+fig1b,Au+Au,O+O 10-20% (central),line,20,1.44789,0.167934
+fig1b,Au+Au,O+O 10-20% (central),line,21,1.54792,0.186966
+fig1b,Au+Au,O+O 10-20% (central),line,22,1.64794,0.206131
+fig1b,Au+Au,O+O 10-20% (central),line,23,1.74798,0.222566
+fig1b,Au+Au,O+O 10-20% (central),line,24,1.84802,0.242308
+fig1b,Au+Au,O+O 10-20% (central),line,25,1.94805,0.260111
+fig1b,Au+Au,O+O 10-20% (central),line,26,2.09185,0.284688
+fig1b,Au+Au,O+O 10-20% (central),line,27,2.29216,0.316149
+fig1b,Au+Au,O+O 10-20% (central),line,28,2.49244,0.346885
+fig1b,Au+Au,O+O 10-20% (central),line,29,2.69273,0.379936
+fig1b,Au+Au,O+O 10-20% (central),line,30,2.89304,0.415916
+fig1b,Au+Au,O+O 10-20% (central),line,31,3.20846,0.462414
+fig1b,Au+Au,O+O 10-20% (central),line,32,3.71203,0.54502
+fig1b,Au+Au,O+O 10-20% (central),line,33,4.37098,0.68161
+fig1b,Au+Au,O+O 10-20% (central),line,34,5.393,0.897241
+fig1b,Au+Au,O+O 10-20% (central),line,35,6.63614,1.25001
+fig1b,Au+Au,O+O 10-20% (band),band,0,0.224862,-0.0503032
+fig1b,Au+Au,O+O 10-20% (band),band,1,0.274672,-0.0466998
+fig1b,Au+Au,O+O 10-20% (band),band,2,0.324581,-0.0410595
+fig1b,Au+Au,O+O 10-20% (band),band,3,0.374528,-0.0348679
+fig1b,Au+Au,O+O 10-20% (band),band,4,0.424501,-0.0276661
+fig1b,Au+Au,O+O 10-20% (band),band,5,0.474492,-0.0205965
+fig1b,Au+Au,O+O 10-20% (band),band,6,0.524478,-0.0118465
+fig1b,Au+Au,O+O 10-20% (band),band,7,0.574482,-0.00303982
+fig1b,Au+Au,O+O 10-20% (band),band,8,0.62448,0.00591566
+fig1b,Au+Au,O+O 10-20% (band),band,9,0.674478,0.0150671
+fig1b,Au+Au,O+O 10-20% (band),band,10,0.724483,0.0242699
+fig1b,Au+Au,O+O 10-20% (band),band,11,0.7745,0.033682
+fig1b,Au+Au,O+O 10-20% (band),band,12,0.824492,0.0442463
+fig1b,Au+Au,O+O 10-20% (band),band,13,0.874486,0.053468
+fig1b,Au+Au,O+O 10-20% (band),band,14,0.924495,0.0632954
+fig1b,Au+Au,O+O 10-20% (band),band,15,0.974496,0.0740839
+fig1b,Au+Au,O+O 10-20% (band),band,16,1.0477,0.0880738
+fig1b,Au+Au,O+O 10-20% (band),band,17,1.14775,0.108627
+fig1b,Au+Au,O+O 10-20% (band),band,18,1.2478,0.127856
+fig1b,Au+Au,O+O 10-20% (band),band,19,1.34784,0.147342
+fig1b,Au+Au,O+O 10-20% (band),band,20,1.44789,0.168408
+fig1b,Au+Au,O+O 10-20% (band),band,21,1.54792,0.187939
+fig1b,Au+Au,O+O 10-20% (band),band,22,1.64794,0.207074
+fig1b,Au+Au,O+O 10-20% (band),band,23,1.74798,0.223489
+fig1b,Au+Au,O+O 10-20% (band),band,24,1.84802,0.2434
+fig1b,Au+Au,O+O 10-20% (band),band,25,1.94805,0.261528
+fig1b,Au+Au,O+O 10-20% (band),band,26,2.09185,0.285982
+fig1b,Au+Au,O+O 10-20% (band),band,27,2.29216,0.31771
+fig1b,Au+Au,O+O 10-20% (band),band,28,2.49244,0.348564
+fig1b,Au+Au,O+O 10-20% (band),band,29,2.69273,0.381971
+fig1b,Au+Au,O+O 10-20% (band),band,30,2.89304,0.418498
+fig1b,Au+Au,O+O 10-20% (band),band,31,3.20846,0.465411
+fig1b,Au+Au,O+O 10-20% (band),band,32,3.71203,0.548531
+fig1b,Au+Au,O+O 10-20% (band),band,33,4.37098,0.688919
+fig1b,Au+Au,O+O 10-20% (band),band,34,5.393,0.91257
+fig1b,Au+Au,O+O 10-20% (band),band,35,6.54981,1.25001
+fig1b,Au+Au,O+O 10-20% (band),band,36,6.81899,1.25001
+fig1b,Au+Au,O+O 10-20% (band),band,37,6.67938,1.21094
+fig1b,Au+Au,O+O 10-20% (band),band,38,5.393,0.868249
+fig1b,Au+Au,O+O 10-20% (band),band,39,4.37098,0.662035
+fig1b,Au+Au,O+O 10-20% (band),band,40,3.71203,0.527267
+fig1b,Au+Au,O+O 10-20% (band),band,41,3.20846,0.443915
+fig1b,Au+Au,O+O 10-20% (band),band,42,2.89304,0.394884
+fig1b,Au+Au,O+O 10-20% (band),band,43,2.69273,0.361314
+fig1b,Au+Au,O+O 10-20% (band),band,44,2.49244,0.330268
+fig1b,Au+Au,O+O 10-20% (band),band,45,2.29216,0.301038
+fig1b,Au+Au,O+O 10-20% (band),band,46,2.09185,0.274031
+fig1b,Au+Au,O+O 10-20% (band),band,47,1.94805,0.248402
+fig1b,Au+Au,O+O 10-20% (band),band,48,1.84802,0.233548
+fig1b,Au+Au,O+O 10-20% (band),band,49,1.74798,0.213272
+fig1b,Au+Au,O+O 10-20% (band),band,50,1.64794,0.198062
+fig1b,Au+Au,O+O 10-20% (band),band,51,1.54792,0.180714
+fig1b,Au+Au,O+O 10-20% (band),band,52,1.44789,0.161697
+fig1b,Au+Au,O+O 10-20% (band),band,53,1.34784,0.142196
+fig1b,Au+Au,O+O 10-20% (band),band,54,1.2478,0.121189
+fig1b,Au+Au,O+O 10-20% (band),band,55,1.14775,0.103323
+fig1b,Au+Au,O+O 10-20% (band),band,56,1.0477,0.0835257
+fig1b,Au+Au,O+O 10-20% (band),band,57,0.974496,0.0703912
+fig1b,Au+Au,O+O 10-20% (band),band,58,0.924495,0.0606239
+fig1b,Au+Au,O+O 10-20% (band),band,59,0.874486,0.0504869
+fig1b,Au+Au,O+O 10-20% (band),band,60,0.824492,0.0406489
+fig1b,Au+Au,O+O 10-20% (band),band,61,0.7745,0.0313221
+fig1b,Au+Au,O+O 10-20% (band),band,62,0.724483,0.0221213
+fig1b,Au+Au,O+O 10-20% (band),band,63,0.674478,0.0136919
+fig1b,Au+Au,O+O 10-20% (band),band,64,0.62448,0.00498333
+fig1b,Au+Au,O+O 10-20% (band),band,65,0.574482,-0.00390938
+fig1b,Au+Au,O+O 10-20% (band),band,66,0.524478,-0.0125546
+fig1b,Au+Au,O+O 10-20% (band),band,67,0.474492,-0.0214899
+fig1b,Au+Au,O+O 10-20% (band),band,68,0.424501,-0.0291672
+fig1b,Au+Au,O+O 10-20% (band),band,69,0.374528,-0.0369972
+fig1b,Au+Au,O+O 10-20% (band),band,70,0.324581,-0.0440317
+fig1b,Au+Au,O+O 10-20% (band),band,71,0.274672,-0.0506677
+fig1b,Au+Au,O+O 10-20% (band),band,72,0.224862,-0.0552211
+fig1c,Au+Au,O+O 10-20% (central),line,0,0.224868,-1.23963
+fig1c,Au+Au,O+O 10-20% (central),line,1,0.274679,-1.1328
+fig1c,Au+Au,O+O 10-20% (central),line,2,0.324591,-0.984498
+fig1c,Au+Au,O+O 10-20% (central),line,3,0.374544,-0.825688
+fig1c,Au+Au,O+O 10-20% (central),line,4,0.42452,-0.649893
+fig1c,Au+Au,O+O 10-20% (central),line,5,0.474503,-0.476064
+fig1c,Au+Au,O+O 10-20% (central),line,6,0.524501,-0.272683
+fig1c,Au+Au,O+O 10-20% (central),line,7,0.574508,-0.0736222
+fig1c,Au+Au,O+O 10-20% (central),line,8,0.624507,0.127921
+fig1c,Au+Au,O+O 10-20% (central),line,9,0.674507,0.336351
+fig1c,Au+Au,O+O 10-20% (central),line,10,0.724514,0.544998
+fig1c,Au+Au,O+O 10-20% (central),line,11,0.774517,0.756177
+fig1c,Au+Au,O+O 10-20% (central),line,12,0.824528,0.994026
+fig1c,Au+Au,O+O 10-20% (central),line,13,0.874525,1.20405
+fig1c,Au+Au,O+O 10-20% (central),line,14,0.924517,1.4271
+fig1c,Au+Au,O+O 10-20% (central),line,15,0.974517,1.66884
+fig1c,Au+Au,O+O 10-20% (central),line,16,1.04774,1.98889
+fig1c,Au+Au,O+O 10-20% (central),line,17,1.14778,2.45202
+fig1c,Au+Au,O+O 10-20% (central),line,18,1.24783,2.88793
+fig1c,Au+Au,O+O 10-20% (central),line,19,1.34787,3.32782
+fig1c,Au+Au,O+O 10-20% (central),line,20,1.44793,3.80684
+fig1c,Au+Au,O+O 10-20% (central),line,21,1.54796,4.23831
+fig1c,Au+Au,O+O 10-20% (central),line,22,1.64801,4.67268
+fig1c,Au+Au,O+O 10-20% (central),line,23,1.74802,5.04524
+fig1c,Au+Au,O+O 10-20% (central),line,24,1.84806,5.49266
+fig1c,Au+Au,O+O 10-20% (central),line,25,1.94813,5.89621
+fig1c,Au+Au,O+O 10-20% (central),line,26,2.09194,6.45329
+fig1c,Au+Au,O+O 10-20% (central),line,27,2.29221,7.16637
+fig1c,Au+Au,O+O 10-20% (central),line,28,2.49255,7.86318
+fig1c,Au+Au,O+O 10-20% (central),line,29,2.69285,8.6123
+fig1c,Au+Au,O+O 10-20% (central),line,30,2.89311,9.42783
+fig1c,Au+Au,O+O 10-20% (central),line,31,3.2086,10.4819
+fig1c,Au+Au,O+O 10-20% (central),line,32,3.71219,12.3544
+fig1c,Au+Au,O+O 10-20% (central),line,33,4.37108,15.4504
+fig1c,Au+Au,O+O 10-20% (central),line,34,5.39312,20.3381
+fig1c,Au+Au,O+O 10-20% (central),line,35,6.67954,28.5845
+fig1c,Au+Au,O+O 10-20% (central),line,36,8.48761,39.0004
+fig1c,Au+Au,O+O 10-20% (band),band,0,0.224868,-1.20342
+fig1c,Au+Au,O+O 10-20% (band),band,1,0.274679,-1.11673
+fig1c,Au+Au,O+O 10-20% (band),band,2,0.324591,-0.979711
+fig1c,Au+Au,O+O 10-20% (band),band,3,0.374544,-0.823372
+fig1c,Au+Au,O+O 10-20% (band),band,4,0.42452,-0.645305
+fig1c,Au+Au,O+O 10-20% (band),band,5,0.474503,-0.470638
+fig1c,Au+Au,O+O 10-20% (band),band,6,0.524501,-0.268217
+fig1c,Au+Au,O+O 10-20% (band),band,7,0.574508,-0.068607
+fig1c,Au+Au,O+O 10-20% (band),band,8,0.624507,0.134364
+fig1c,Au+Au,O+O 10-20% (band),band,9,0.674507,0.341766
+fig1c,Au+Au,O+O 10-20% (band),band,10,0.724514,0.550368
+fig1c,Au+Au,O+O 10-20% (band),band,11,0.774517,0.763708
+fig1c,Au+Au,O+O 10-20% (band),band,12,0.824528,1.00309
+fig1c,Au+Au,O+O 10-20% (band),band,13,0.874525,1.21325
+fig1c,Au+Au,O+O 10-20% (band),band,14,0.924517,1.45273
+fig1c,Au+Au,O+O 10-20% (band),band,15,0.974517,1.69092
+fig1c,Au+Au,O+O 10-20% (band),band,16,1.04774,2.00123
+fig1c,Au+Au,O+O 10-20% (band),band,17,1.14778,2.4741
+fig1c,Au+Au,O+O 10-20% (band),band,18,1.24783,2.90388
+fig1c,Au+Au,O+O 10-20% (band),band,19,1.34787,3.40252
+fig1c,Au+Au,O+O 10-20% (band),band,20,1.44793,3.86911
+fig1c,Au+Au,O+O 10-20% (band),band,21,1.54796,4.32604
+fig1c,Au+Au,O+O 10-20% (band),band,22,1.64801,4.7414
+fig1c,Au+Au,O+O 10-20% (band),band,23,1.74802,5.10629
+fig1c,Au+Au,O+O 10-20% (band),band,24,1.84806,5.59006
+fig1c,Au+Au,O+O 10-20% (band),band,25,1.94813,5.95603
+fig1c,Au+Au,O+O 10-20% (band),band,26,2.09194,6.55836
+fig1c,Au+Au,O+O 10-20% (band),band,27,2.29221,7.21453
+fig1c,Au+Au,O+O 10-20% (band),band,28,2.49255,7.91717
+fig1c,Au+Au,O+O 10-20% (band),band,29,2.69285,8.68056
+fig1c,Au+Au,O+O 10-20% (band),band,30,2.89311,9.49409
+fig1c,Au+Au,O+O 10-20% (band),band,31,3.2086,10.6351
+fig1c,Au+Au,O+O 10-20% (band),band,32,3.71219,12.6582
+fig1c,Au+Au,O+O 10-20% (band),band,33,4.37108,15.8838
+fig1c,Au+Au,O+O 10-20% (band),band,34,5.39312,20.9085
+fig1c,Au+Au,O+O 10-20% (band),band,35,6.67954,29.2785
+fig1c,Au+Au,O+O 10-20% (band),band,36,8.1171,39.0004
+fig1c,Au+Au,O+O 10-20% (band),band,37,8.70747,39.0004
+fig1c,Au+Au,O+O 10-20% (band),band,38,6.67954,28.1016
+fig1c,Au+Au,O+O 10-20% (band),band,39,5.39312,20.0592
+fig1c,Au+Au,O+O 10-20% (band),band,40,4.37108,15.303
+fig1c,Au+Au,O+O 10-20% (band),band,41,3.71219,12.2565
+fig1c,Au+Au,O+O 10-20% (band),band,42,3.2086,10.4124
+fig1c,Au+Au,O+O 10-20% (band),band,43,2.89311,9.35083
+fig1c,Au+Au,O+O 10-20% (band),band,44,2.69285,8.56046
+fig1c,Au+Au,O+O 10-20% (band),band,45,2.49255,7.81548
+fig1c,Au+Au,O+O 10-20% (band),band,46,2.29221,7.12511
+fig1c,Au+Au,O+O 10-20% (band),band,47,2.09194,6.42001
+fig1c,Au+Au,O+O 10-20% (band),band,48,1.94813,5.86139
+fig1c,Au+Au,O+O 10-20% (band),band,49,1.84806,5.45984
+fig1c,Au+Au,O+O 10-20% (band),band,50,1.74802,5.0161
+fig1c,Au+Au,O+O 10-20% (band),band,51,1.64801,4.64829
+fig1c,Au+Au,O+O 10-20% (band),band,52,1.54796,4.21024
+fig1c,Au+Au,O+O 10-20% (band),band,53,1.44793,3.78491
+fig1c,Au+Au,O+O 10-20% (band),band,54,1.34787,3.30758
+fig1c,Au+Au,O+O 10-20% (band),band,55,1.24783,2.86584
+fig1c,Au+Au,O+O 10-20% (band),band,56,1.14778,2.4402
+fig1c,Au+Au,O+O 10-20% (band),band,57,1.04774,1.97644
+fig1c,Au+Au,O+O 10-20% (band),band,58,0.974517,1.65168
+fig1c,Au+Au,O+O 10-20% (band),band,59,0.924517,1.41454
+fig1c,Au+Au,O+O 10-20% (band),band,60,0.874525,1.19157
+fig1c,Au+Au,O+O 10-20% (band),band,61,0.824528,0.967873
+fig1c,Au+Au,O+O 10-20% (band),band,62,0.774517,0.74102
+fig1c,Au+Au,O+O 10-20% (band),band,63,0.724514,0.524764
+fig1c,Au+Au,O+O 10-20% (band),band,64,0.674507,0.323682
+fig1c,Au+Au,O+O 10-20% (band),band,65,0.624507,0.116158
+fig1c,Au+Au,O+O 10-20% (band),band,66,0.574508,-0.0914283
+fig1c,Au+Au,O+O 10-20% (band),band,67,0.524501,-0.292805
+fig1c,Au+Au,O+O 10-20% (band),band,68,0.474503,-0.495686
+fig1c,Au+Au,O+O 10-20% (band),band,69,0.42452,-0.664083
+fig1c,Au+Au,O+O 10-20% (band),band,70,0.374544,-0.83714
+fig1c,Au+Au,O+O 10-20% (band),band,71,0.324591,-0.992318
+fig1c,Au+Au,O+O 10-20% (band),band,72,0.274679,-1.14174
+fig1c,Au+Au,O+O 10-20% (band),band,73,0.224868,-1.24501
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,0,0.297025,-0.0341441
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,1,0.492432,-0.0361781
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,2,0.690842,-0.0342431
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,3,0.891153,-0.0229582
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,4,1.08996,-0.00729456
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,5,1.28997,0.00985315
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,6,1.49097,0.0288199
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,7,1.68699,0.0508984
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,8,1.89399,0.0697307
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,9,1.89399,0.0598155
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,10,1.68699,0.0446081
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,11,1.49097,0.0235279
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,12,1.28997,0.00741523
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,13,1.08996,-0.0134924
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,14,0.891153,-0.0267663
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,15,0.690842,-0.0393669
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,16,0.492432,-0.0469118
+fig2a,Au+Au,3DGlauber+MUSIC p(pbar),band,17,0.297025,-0.0453859
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,0,0.297025,-0.0321912
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,1,0.492432,-0.0267429
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,2,0.690842,-0.0120363
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,3,0.891153,0.00479224
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,4,1.08996,0.0242608
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,5,1.28997,0.0441518
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,6,1.49097,0.0680844
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,7,1.68699,0.0965433
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,8,1.89399,0.109034
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,9,1.89399,0.0807344
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,10,1.68699,0.063384
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,11,1.49097,0.0489037
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,12,1.28997,0.0362973
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,13,1.08996,0.018109
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,14,0.891153,0.00197821
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,15,0.690842,-0.0139188
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,16,0.492432,-0.0286658
+fig2a,Au+Au,3DGlauber+MUSIC K+-,band,17,0.297025,-0.0392571
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,0,0.297025,-0.0131405
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,1,0.492432,-0.00314905
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,2,0.690842,0.0109321
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,3,0.891153,0.0256868
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,4,1.08996,0.044621
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,5,1.28997,0.0624374
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,6,1.49097,0.0808925
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,7,1.68699,0.101223
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,8,1.89399,0.107982
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,9,1.89399,0.0872022
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,10,1.68699,0.0777433
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,11,1.49097,0.0661946
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,12,1.28997,0.0529883
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,13,1.08996,0.0368471
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,14,0.891153,0.0235609
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,15,0.690842,0.0086061
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,16,0.492432,-0.00471446
+fig2a,Au+Au,3DGlauber+MUSIC pi+-,band,17,0.297025,-0.0153904
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,0,0.297673,-0.119031
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,1,0.491063,-0.110002
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,2,0.689963,-0.0851345
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,3,0.888968,-0.0424282
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,4,1.08896,0.0137168
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,5,1.28996,0.0793809
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,6,1.48896,0.151604
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,7,1.69296,0.224289
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,8,1.88995,0.297541
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,9,1.88995,0.239768
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,10,1.69296,0.177234
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,11,1.48896,0.105729
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,12,1.28996,0.0403635
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,13,1.08896,-0.0197602
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,14,0.888968,-0.0713656
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,15,0.689963,-0.111312
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,16,0.491063,-0.13802
+fig2b,O+O,3DGlauber+MUSIC p(pbar),band,17,0.297673,-0.150249
+fig2b,O+O,3DGlauber+MUSIC K+-,band,0,0.297673,-0.0932063
+fig2b,O+O,3DGlauber+MUSIC K+-,band,1,0.491063,-0.067666
+fig2b,O+O,3DGlauber+MUSIC K+-,band,2,0.689963,-0.0259646
+fig2b,O+O,3DGlauber+MUSIC K+-,band,3,0.888968,0.0328175
+fig2b,O+O,3DGlauber+MUSIC K+-,band,4,1.08896,0.107782
+fig2b,O+O,3DGlauber+MUSIC K+-,band,5,1.28996,0.182973
+fig2b,O+O,3DGlauber+MUSIC K+-,band,6,1.48896,0.240819
+fig2b,O+O,3DGlauber+MUSIC K+-,band,7,1.69296,0.274536
+fig2b,O+O,3DGlauber+MUSIC K+-,band,8,1.88995,0.320574
+fig2b,O+O,3DGlauber+MUSIC K+-,band,9,1.88995,0.24798
+fig2b,O+O,3DGlauber+MUSIC K+-,band,10,1.69296,0.224021
+fig2b,O+O,3DGlauber+MUSIC K+-,band,11,1.48896,0.186546
+fig2b,O+O,3DGlauber+MUSIC K+-,band,12,1.28996,0.1376
+fig2b,O+O,3DGlauber+MUSIC K+-,band,13,1.08896,0.0762049
+fig2b,O+O,3DGlauber+MUSIC K+-,band,14,0.888968,0.0168208
+fig2b,O+O,3DGlauber+MUSIC K+-,band,15,0.689963,-0.0349677
+fig2b,O+O,3DGlauber+MUSIC K+-,band,16,0.491063,-0.0818784
+fig2b,O+O,3DGlauber+MUSIC K+-,band,17,0.297673,-0.110313
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,0,0.297673,-0.0342123
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,1,0.491063,-0.00985141
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,2,0.689963,0.0351402
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,3,0.888968,0.0977288
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,4,1.08896,0.166164
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,5,1.28996,0.224588
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,6,1.48896,0.272116
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,7,1.69296,0.328971
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,8,1.88995,0.387206
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,9,1.88995,0.308271
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,10,1.69296,0.257118
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,11,1.48896,0.227378
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,12,1.28996,0.182111
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,13,1.08896,0.132345
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,14,0.888968,0.0771729
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,15,0.689963,0.0259712
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,16,0.491063,-0.0154449
+fig2b,O+O,3DGlauber+MUSIC pi+-,band,17,0.297673,-0.0436434
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,0,0.977638,-0.200068
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,1,0.982859,-0.00431106
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,2,1.41018,1.68438
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,3,1.8375,3.31754
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,4,2.26482,4.99291
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,5,2.69214,7.04661
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,6,2.79034,7.60017
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,7,2.99998,7.60017
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,8,2.99998,7.18762
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,9,2.99998,7.35862
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,10,2.69214,6.04993
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,11,2.26482,4.39618
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,12,1.8375,2.91369
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,13,1.41018,1.44725
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,14,0.982859,-0.126742
+fig2c,Au+Au,TRENTo+MUSIC+SMASH bulk+shear,band,15,0.980927,-0.200068
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,0,0.976059,-0.200068
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,1,1.27942,0.986861
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,2,1.66712,2.2403
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,3,2.05482,3.17492
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,4,2.44251,4.51667
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,5,2.83021,5.06875
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,6,2.99998,6.57323
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,7,2.99998,7.60017
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,8,2.99998,6.36006
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,9,2.99998,5.62886
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,10,2.83021,4.37373
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,11,2.44251,3.9589
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,12,2.05482,2.79949
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,13,1.66712,1.97675
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,14,1.27942,0.827787
+fig2c,Au+Au,TRENTo+MUSIC+SMASH ideal,band,15,1.00397,-0.200068
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,0,0.970458,-0.200068
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,1,1.26398,0.7829
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,2,1.64699,1.82517
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,3,2.03001,3.12419
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,4,2.41302,4.19246
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,5,2.79604,5.11528
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,6,2.99998,6.87927
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,7,2.99998,6.83559
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,8,2.99998,5.6566
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,9,2.99998,5.99792
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,10,2.79604,4.4017
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,11,2.41302,3.64394
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,12,2.03001,2.7313
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,13,1.64699,1.58183
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,14,1.26398,0.628971
+fig2c,Au+Au,TRENTo+MUSIC+SMASH shear,band,15,1.00299,-0.200068

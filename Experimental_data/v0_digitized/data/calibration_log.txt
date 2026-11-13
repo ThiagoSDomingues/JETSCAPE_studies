@@ -1,0 +1,33 @@
+STAR_2608.00190 fig1a            x: n_ref=2 resid=4.4e-16 (log)   y: n_ref=5 resid=3.7e-06
+STAR_2608.00190 fig1b            x: n_ref=2 resid=2.7e-15 (log)   y: n_ref=7 resid=4.6e-05   dashed zero line at y=-0.0000
+STAR_2608.00190 fig1c            x: n_ref=2 resid=3.6e-15 (log)   y: n_ref=8 resid=1.4e-03   dashed zero line at y=-0.0002
+STAR_2608.00190 fig2a            x: n_ref=7 resid=1.5e-04   y: n_ref=6 resid=1.0e-05   dashed zero line at y=-0.0000
+STAR_2608.00190 fig2b            x: n_ref=7 resid=1.5e-04   y: n_ref=7 resid=2.2e-15   dashed zero line at y=+0.0000
+STAR_2608.00190 fig2c            x: n_ref=5 resid=5.3e-05   y: n_ref=8 resid=4.0e-04
+STAR_2608.00190 fig3a            x: n_ref=4 resid=9.3e-05   y: n_ref=4 resid=1.1e-16   dashed zero line at y=-0.0000
+STAR_2608.00190 fig3b            x: n_ref=4 resid=6.7e-05   y: n_ref=4 resid=1.1e-16   dashed zero line at y=-0.0000
+STAR_2608.00190 fig3c            x: n_ref=4 resid=9.3e-05   y: n_ref=4 resid=8.2e-06   dashed zero line at y=-0.0000
+STAR_2608.00190 fig3d            x: n_ref=4 resid=6.7e-05   y: n_ref=4 resid=8.2e-06   dashed zero line at y=-0.0000
+CMS-PAS-HIN-25-016 fig1_pp          x: n_ref=2 resid=1.1e-15 (log)   y: n_ref=3 resid=1.8e-15   dashed zero line at y=-0.0000
+CMS-PAS-HIN-25-016 fig1_pPb         x: n_ref=2 resid=1.8e-15 (log)   y: n_ref=3 resid=1.8e-15   dashed zero line at y=-0.0000
+CMS-PAS-HIN-25-016 fig1_OO          x: n_ref=2 resid=8.9e-16 (log)   y: n_ref=3 resid=1.8e-15   dashed zero line at y=-0.0000
+CMS-PAS-HIN-25-016 fig1_NeNe        x: n_ref=2 resid=3.6e-15 (log)   y: n_ref=3 resid=1.8e-15   dashed zero line at y=-0.0000
+CMS-PAS-HIN-25-016 fig2_Ntrk10-20   x: n_ref=2 resid=1.3e-15 (log)   y: n_ref=4 resid=2.7e-15   dashed zero line at y=+0.0000
+CMS-PAS-HIN-25-016 fig2_Ntrk20-50   x: n_ref=2 resid=4.4e-16 (log)   y: n_ref=4 resid=2.7e-15   dashed zero line at y=+0.0000
+CMS-PAS-HIN-25-016 fig2_Ntrk50-80   x: n_ref=2 resid=2.7e-15 (log)   y: n_ref=4 resid=2.7e-15   dashed zero line at y=+0.0000
+CMS-PAS-HIN-25-016 fig2_Ntrk80-150  x: n_ref=2 resid=4.4e-15 (log)   y: n_ref=4 resid=2.7e-15   dashed zero line at y=+0.0000
+CMS-PAS-HIN-25-016 fig3_Ntrk10-20   x: n_ref=2 resid=8.9e-16 (log)   y: n_ref=4 resid=8.6e-05   dashed zero line at y=-0.0001
+CMS-PAS-HIN-25-016 fig3_Ntrk20-50   x: n_ref=2 resid=1.3e-15 (log)   y: n_ref=4 resid=8.6e-05   dashed zero line at y=-0.0001
+CMS-PAS-HIN-25-016 fig3_Ntrk50-80   x: n_ref=2 resid=8.9e-16 (log)   y: n_ref=4 resid=8.6e-05   dashed zero line at y=-0.0001
+CMS-PAS-HIN-25-016 fig3_Ntrk80-100  x: n_ref=2 resid=1.8e-15 (log)   y: n_ref=4 resid=8.6e-05   dashed zero line at y=-0.0001
+CMS-PAS-HIN-25-016 fig3_Ntrk100-120 x: n_ref=2 resid=3.6e-15 (log)   y: n_ref=4 resid=8.6e-05   dashed zero line at y=-0.0001
+CMS-PAS-HIN-25-016 fig4_pp          x: n_ref=2 resid=4.4e-16 (log)   y: n_ref=3 resid=1.6e-13   dashed zero line at y=-0.0013
+CMS-PAS-HIN-25-016 fig4_pPb         x: n_ref=2 resid=2.2e-15 (log)   y: n_ref=3 resid=1.6e-13   dashed zero line at y=-0.0013
+CMS-PAS-HIN-25-016 fig4_OO          x: n_ref=2 resid=4.4e-15 (log)   y: n_ref=3 resid=1.6e-13   dashed zero line at y=-0.0013
+CMS-PAS-HIN-25-016 fig4_NeNe        x: n_ref=2 resid=3.6e-15 (log)   y: n_ref=3 resid=1.6e-13   dashed zero line at y=-0.0013
+CMS-PAS-HIN-25-016 fig5_OO          x: n_ref=4 resid=2.7e-05 (log)   y: n_ref=8 resid=6.6e-04   dashed zero line at y=+0.0002
+CMS-PAS-HIN-25-016 fig5_NeNe        x: n_ref=3 resid=1.9e-05 (log)   y: n_ref=8 resid=6.6e-04   dashed zero line at y=+0.0002
+CMS-PAS-HIN-25-016 fig5_pPb         x: n_ref=4 resid=1.9e-05 (log)   y: n_ref=8 resid=6.3e-04   dashed zero line at y=-0.0001
+CMS-PAS-HIN-25-016 fig5_pp          x: n_ref=4 resid=1.9e-05 (log)   y: n_ref=8 resid=6.3e-04   dashed zero line at y=-0.0001
+CMS-PAS-HIN-25-016 fig6_pp          x: n_ref=3 resid=2.4e-05 (log)   y: n_ref=5 resid=2.1e-04
+CMS-PAS-HIN-25-016 fig6_pPb         x: n_ref=3 resid=2.2e-05 (log)   y: n_ref=8 resid=3.2e-04

@@ -1,0 +1,51 @@
+STAR: v0 = v0(pT) [Fig 1b] / (v0(pT)/v0) [Fig 1c], compared with Fig 1a (Au+Au charged hadrons, ordered by Nch)
+  0-5%    v0(1b/1c) = 0.0129 (spread 0.0000, 15 pts)   Fig 1a: v0 = 0.0129 at Nch = 1179   diff = -0.0%
+  5-10%   v0(1b/1c) = 0.0145 (spread 0.0000, 16 pts)   Fig 1a: v0 = 0.0145 at Nch = 959   diff = -0.0%
+  10-20%  v0(1b/1c) = 0.0170 (spread 0.0000, 17 pts)   Fig 1a: v0 = 0.0170 at Nch = 717   diff = -0.0%
+  20-30%  v0(1b/1c) = 0.0205 (spread 0.0000, 19 pts)   Fig 1a: v0 = 0.0205 at Nch = 469   diff = -0.0%
+  30-40%  v0(1b/1c) = 0.0246 (spread 0.0000, 20 pts)   Fig 1a: v0 = 0.0246 at Nch = 300   diff = -0.0%
+  40-50%  v0(1b/1c) = 0.0294 (spread 0.0000, 21 pts)   Fig 1a: v0 = 0.0294 at Nch = 186   diff = -0.0%
+  50-60%  v0(1b/1c) = 0.0353 (spread 0.0000, 22 pts)   Fig 1a: v0 = 0.0353 at Nch = 111   diff = -0.0%
+  60-70%  v0(1b/1c) = 0.0437 (spread 0.0000, 24 pts)   Fig 1a: v0 = 0.0437 at Nch = 61   diff = -0.0%
+
+CMS: <pT> = pT [Fig 1] / (pT/<pT>) [Fig 4]   and   v0 = v0(pT) [Fig 1] / (v0(pT)/v0) [Fig 4]
+  pp   Ntrk 120-150  <pT> = 1.0313 GeV (spread 0.0001)   v0 = 0.0319 (spread 0.0000, 23 pts)
+  pp   Ntrk 100-120  <pT> = 1.0172 GeV (spread 0.0026)   v0 = 0.0297 (spread 0.0005, 22 pts)
+  pp   Ntrk 80-100   <pT> = 1.0069 GeV (spread 0.0001)   v0 = 0.0290 (spread 0.0000, 21 pts)
+  pp   Ntrk 50-80    <pT> = 0.9039 GeV (spread 0.0001)   v0 = 0.0338 (spread 0.0000, 24 pts)
+  pp   Ntrk 20-50    <pT> = 0.8178 GeV (spread 0.0001)   v0 = 0.0390 (spread 0.0000, 26 pts)
+  pp   Ntrk 10-20    <pT> = 0.7321 GeV (spread 0.0001)   v0 = 0.0279 (spread 0.0000, 18 pts)
+  pPb  Ntrk 250-400  <pT> = 0.9575 GeV (spread 0.0000)   v0 = 0.0314 (spread 0.0000, 23 pts)
+  pPb  Ntrk 185-250  <pT> = 0.9499 GeV (spread 0.0000)   v0 = 0.0322 (spread 0.0000, 23 pts)
+  pPb  Ntrk 120-185  <pT> = 0.9301 GeV (spread 0.0000)   v0 = 0.0345 (spread 0.0000, 23 pts)
+  pPb  Ntrk 60-120   <pT> = 0.8938 GeV (spread 0.0000)   v0 = 0.0375 (spread 0.0000, 25 pts)
+  pPb  Ntrk 20-60    <pT> = 0.8249 GeV (spread 0.0000)   v0 = 0.0466 (spread 0.0000, 25 pts)
+  pPb  Ntrk 10-20    <pT> = 0.7331 GeV (spread 0.0000)   v0 = 0.0353 (spread 0.0000, 27 pts)
+  OO   Ntrk 250-400  <pT> = 0.8345 GeV (spread 0.0001)   v0 = 0.0298 (spread 0.0000, 23 pts)
+  OO   Ntrk 185-250  <pT> = 0.8186 GeV (spread 0.0001)   v0 = 0.0338 (spread 0.0000, 24 pts)
+  OO   Ntrk 120-185  <pT> = 0.8095 GeV (spread 0.0001)   v0 = 0.0386 (spread 0.0000, 24 pts)
+  OO   Ntrk 60-120   <pT> = 0.7978 GeV (spread 0.0001)   v0 = 0.0450 (spread 0.0000, 26 pts)
+  OO   Ntrk 20-60    <pT> = 0.7640 GeV (spread 0.0001)   v0 = 0.0524 (spread 0.0000, 26 pts)
+  OO   Ntrk 10-20    <pT> = 0.7021 GeV (spread 0.0001)   v0 = 0.0493 (spread 0.0000, 27 pts)
+  NeNe Ntrk 400-600  <pT> = 0.8512 GeV (spread 0.0000)   v0 = 0.0264 (spread 0.0000, 22 pts)
+  NeNe Ntrk 250-400  <pT> = 0.8252 GeV (spread 0.0000)   v0 = 0.0310 (spread 0.0000, 23 pts)
+  NeNe Ntrk 185-250  <pT> = 0.8134 GeV (spread 0.0000)   v0 = 0.0352 (spread 0.0000, 24 pts)
+  NeNe Ntrk 120-185  <pT> = 0.8068 GeV (spread 0.0000)   v0 = 0.0392 (spread 0.0000, 24 pts)
+  NeNe Ntrk 60-120   <pT> = 0.7959 GeV (spread 0.0000)   v0 = 0.0453 (spread 0.0000, 26 pts)
+  NeNe Ntrk 20-60    <pT> = 0.7625 GeV (spread 0.0000)   v0 = 0.0527 (spread 0.0000, 26 pts)
+  NeNe Ntrk 10-20    <pT> = 0.7011 GeV (spread 0.0000)   v0 = 0.0495 (spread 0.0000, 27 pts)
+
+CMS: Fig 6 [v0(pT) v0 1e3] vs Fig 1 [v0(pT)] x derived v0 x 1e3, interpolated in log pT
+  pp   Ntrk 80-100   median ratio Fig6/pred = 1.000 (spread 0.001, 14 pts)
+  pp   Ntrk 100-120  median ratio Fig6/pred = 1.007 (spread 0.002, 14 pts)
+  pp   Ntrk 120-150  median ratio Fig6/pred = 0.998 (spread 0.008, 14 pts)
+  pPb  Ntrk 60-120   median ratio Fig6/pred = 1.000 (spread 0.001, 14 pts)
+  pPb  Ntrk 120-185  median ratio Fig6/pred = 1.000 (spread 0.001, 14 pts)
+  pPb  Ntrk 185-250  median ratio Fig6/pred = 1.000 (spread 0.001, 13 pts)
+  pPb  Ntrk 250-400  median ratio Fig6/pred = 0.997 (spread 0.010, 13 pts)
+
+CMS: Fig 5 vs Fig 4 (highest-multiplicity class), interpolated in log(pT/<pT>)
+  OO   Ntrk 250-400  median ratio Fig5/Fig4 = 1.000 (spread 0.001, 13 pts)
+  NeNe Ntrk 400-600  median ratio Fig5/Fig4 = 1.000 (spread 0.001, 13 pts)
+  pPb  Ntrk 250-400  median ratio Fig5/Fig4 = 1.000 (spread 0.001, 14 pts)
+  pp   Ntrk 120-150  median ratio Fig5/Fig4 = 1.000 (spread 0.001, 15 pts)
